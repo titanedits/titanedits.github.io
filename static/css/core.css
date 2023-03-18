@@ -17,6 +17,28 @@ h1 {
 	font-style: normal;
 }
 
+.mobileHeader {
+    height: 80px !important;
+    padding-top: 0px !important;
+}
+
+.mobileTitle {
+	height: 36px !important;
+    margin-top: 8px !important;
+}
+
+.mobileHeaderlist {
+    top: 40px !important;
+    position: absolute !important;
+    left:  0px !important;
+    margin-left: 12px !important;
+    padding-left: 0 !important;
+}
+
+.mobileMain {
+	top: 88px !important;
+}
+
 #main {
 	width: 100%;
 	height: calc(100% - 52px);
