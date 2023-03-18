@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Climate Crisis&display=swap');
+body {
+	background-color: rgb(12, 12, 12) !important;
+	
+	margin: 0px 8px 0px 8px;
+	height: 100%;
+	width: calc(100% - 16px);
+
+	font-family: 'Climate Crisis', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+}
+
+h1 {
+	font-family: 'Climate Crisis', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+}
+
+#main {
+	width: 100%;
+	height: calc(100% - 52px);
+	top: 52px;
+	left: 0px;
+	position: absolute;
+}
+
+/* Header */
+#header {
+	background: linear-gradient(90deg, rgb(214, 16, 67) 0%, rgb(12, 12, 13) 100%);
+	background-color: rgb(196, 49, 23);
+	/* position: absolute; */
+	padding: 8px;
+	padding-left: 16px;
+	top: 0px;
+	left: 0px;
+	width: calc(100% - 24px);
+	height: 36px;
+	box-shadow: 0 0 10px 0 rgba(51, 10, 10, 0.5);
+
+	display: flex;
+	align-items: center;
+
+	position: fixed;
+	z-index: 99;
+}
+
+#title {
+	width: min-content;
+	font-size: 32px;
+	line-height: 1.15;
+	letter-spacing: -.02em;
+	color: white;
+	text-shadow: -3px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+	-webkit-font-smoothing: antialiased;
+	white-space: nowrap;
+}
+
+#headerlist {
+	display: flex;
+	align-items: center;
+}
+
+#headerlist li {
+	list-style-type: none;
+	margin: 0px 8px 0px 8px;
+}
+
+#headerlist li a:not(.currentPage) {
+	color: rgb(82, 16, 16);
+	text-shadow: -1px -1px 0 rgb(255, 205, 205), 1px -1px 0 rgb(255, 205, 205), -1px 1px 0 rgb(255, 205, 205), 1px 1px 0 rgb(255, 205, 205);
+	text-decoration: none;
+
+}
+
+#headerlist li a:hover:not(.currentPage) {
+	color: rgb(252, 229, 229);
+	text-shadow: -2px -2px 0 rgb(82, 16, 16), 2px -2px 0 rgb(82, 16, 16), -2px 2px 0 rgb(82, 16, 16), 2px 2px 0 rgb(82, 16, 16);
+	transition: color 0.1s ease-out;
+}
+
+.currentPage {
+	color: rgb(255, 205, 205);
+	text-shadow: -2px -2px 0 rgb(82, 16, 16), 2px -2px 0 rgb(82, 16, 16), -2px 2px 0 rgb(82, 16, 16), 2px 2px 0 rgb(82, 16, 16);
+	text-decoration: none;
+}
