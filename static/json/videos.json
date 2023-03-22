@@ -1,0 +1,56 @@
+[
+	{
+		"title": "Featured Edit",
+		"description": "Our selected favorite!",
+		"hasCoolFont": true,
+		"color": "#d61043",
+		"descriptionColor": "wheat",
+		"videoLinks": [
+			["https://www.youtube.com/embed/DJC9uKFo3ys", "VIDEO"]
+		]
+	},
+	{
+		"title": "ChrisMC Style",
+		"description": "This category features edits that are created in the style of popular content creator ChrisMC. Edits in this style may be characterized by creative use of sound effects, music, and text overlays, as well as a focus on showcasing the personality and humor of the content creator.",
+		"color": "#18181a",
+		"videoLinks": [
+			["https://www.youtube.com/embed/xfYQzMdtWiQ", "VIDEO"],
+			["https://www.youtube.com/embed/8r3atq22SKY", "VIDEO"]
+		]
+	},
+	{
+		"title": "Meme Style",
+		"description": "This category features edits that are inspired by or created in the style of internet memes. Edits in this style may incorporate humorous or satirical elements, and often involve manipulating existing footage in creative ways.",
+		"color": "#18181a",
+		"videoLinks": [
+			["https://www.youtube.com/embed/o2cY8l0KIKo", "VIDEO"]
+		]
+	},
+	{
+		"title": "TommyInnit Style",
+		"description": "This category features edits that are created in the style of popular content creator TommyInnit. Edits in this style may be characterized by energetic and comedic editing, with a focus on fast-paced cuts and funny moments.",
+		"color": "#18181a",
+		"videoLinks": [
+			["https://www.youtube.com/embed/69eBpI2U28g", "VIDEO"],
+			["https://www.youtube.com/embed/O2mR6gHcGd0", "VIDEO"]
+		]
+	},
+	{
+		"title": "Simple Cutting",
+		"description": "This category features edits that use straightforward cutting and sequencing techniques to tell a story or convey a message. Edits in this style may prioritize clarity and simplicity over flashy effects or complex transitions.",
+		"color": "#18181a",
+		"videoLinks": [
+			["https://www.youtube.com/embed/zzgLQJLtpHU", "VIDEO"],
+			["https://www.youtube.com/embed/ELB-arDLwr0", "VIDEO"]
+		]
+	},
+	{
+		"title": "Shorts",
+		"description": "This category features short-form videos or edits that are typically under one minute in length. Shorts may include a variety of styles and genres, and may be designed to be easily shareable on social media platforms.",
+		"color": "#18181a",
+		"videoLinks": [
+			["https://www.youtube.com/embed/qpdazqRSll4", "SHORT"],
+			["https://www.youtube.com/embed/5AtGHUyVP9A", "SHORT"]
+		]
+	}
+]
