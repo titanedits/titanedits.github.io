@@ -1,5 +1,4 @@
-[
-	{
+[{
 		"title": "Featured Edit",
 		"description": "Our selected favorite!",
 		"hasCoolFont": true,
@@ -50,7 +49,8 @@
 		"color": "#18181a",
 		"videoLinks": [
 			["https://www.youtube.com/embed/qpdazqRSll4", "SHORT"],
-			["https://www.youtube.com/embed/5AtGHUyVP9A", "SHORT"]
+			["https://www.youtube.com/embed/5AtGHUyVP9A", "SHORT"],
+			["https://www.youtube.com/embed/jKe6LK7XDS8", "SHORT"]
 		]
 	}
 ]
