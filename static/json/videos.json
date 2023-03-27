@@ -52,5 +52,13 @@
 			["https://www.youtube.com/embed/5AtGHUyVP9A", "SHORT"],
 			["https://www.youtube.com/embed/jKe6LK7XDS8", "SHORT"]
 		]
+	},
+	{
+		"title": "CashCow Style",
+		"description": "This category features edits that are inspired by or created in the style of internet memes. Edits in this style may incorporate humorous or satirical elements, and often involve manipulating existing footage in creative ways.",
+		"color": "#d61043",
+		"videoLinks": [
+			["https://www.youtube.com/embed/IX_PPXBtI6M", "VIDEO"]
+		]
 	}
 ]
