@@ -60,5 +60,13 @@
 		"videoLinks": [
 			["https://www.youtube.com/embed/IX_PPXBtI6M", "VIDEO"]
 		]
+	},
+	{
+		"title": "PeachMonkey Style",
+		"description": "This category features edits that are created in the style of popular content creator PeachMonkey. Edits in this style may be characterized by creative use of sound effects, music, and text overlays, as well as a focus on showcasing the personality and humor of the content creator with the use of animated characters.",
+		"color": "#33C9FE",
+		"videoLinks": [
+			["https://youtu.be/kVP7oivsHlg?t=1553", "VIDEO"]
+		]
 	}
 ]
