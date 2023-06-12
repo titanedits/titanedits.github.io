@@ -1,10 +1,17 @@
-[
-  {
+[{
 		"username": "PeachMonkey",
 		"profilePicture": "https://yt3.googleusercontent.com/faTikFLWCLDtLKC78gjjyaQ6P_R_LT5ipKtbU9sI5fW6I2yT4vglsnSxX1WNOAi9ed6kGaJwbA=s176-c-k-c0x00ffffff-no-rj",
 		"subscribers": "893K+ subs",
 		"linkText": "YouTube",
 		"linkURL": "https://www.youtube.com/@PeachMonkey_"
+	},
+	{
+		"username": "WhosChaos",
+		"profilePicture": "https://yt3.googleusercontent.com/sFHwjYZkooyca4jabRHbK5Hjbu1JELgGPQ5dGgAUy5YorbjNqxfolR4o-jRp2wkuNbZ_LjQPYvA=s176-c-k-c0x00ffffff-no-rj",
+		"subscribers": "1.4M+ subs",
+		"linkText": "YouTube",
+		"linkURL": "https://www.youtube.com/@WhosChaos"
+
 
 	},
 	{
