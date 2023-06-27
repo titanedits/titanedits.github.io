@@ -1,9 +1,41 @@
-[
-	{
-		"username": "Titan",
-		"profilePicture": "https://yt3.googleusercontent.com/ytc/AGIKgqN6y2QtZD3gaTvJmyxKB4RCyidhDsXNL_SWj8j32A=s176-c-k-c0x00ffffff-no-rj",
-		"subscribers": "700+ subs",
+[{
+		"username": "PeachMonkey",
+		"profilePicture": "https://yt3.googleusercontent.com/faTikFLWCLDtLKC78gjjyaQ6P_R_LT5ipKtbU9sI5fW6I2yT4vglsnSxX1WNOAi9ed6kGaJwbA=s176-c-k-c0x00ffffff-no-rj",
+		"subscribers": "923K+ subs",
 		"linkText": "YouTube",
-		"linkURL": "https://www.youtube.com/@itsgamertitan"
+		"linkURL": "https://www.youtube.com/@PeachMonkey_"
+	},
+	{
+		"username": "WhosChaos",
+		"profilePicture": "https://yt3.googleusercontent.com/sFHwjYZkooyca4jabRHbK5Hjbu1JELgGPQ5dGgAUy5YorbjNqxfolR4o-jRp2wkuNbZ_LjQPYvA=s176-c-k-c0x00ffffff-no-rj",
+		"subscribers": "1.4M+ subs",
+		"linkText": "YouTube",
+		"linkURL": "https://www.youtube.com/@WhosChaos"
+
+
+	},
+	{
+		"username": "Cash",
+		"profilePicture": "https://yt3.googleusercontent.com/Jds8S-25V7VuH2sP5wAMxgS4LFQlQiMbXuI1uY6WF1FLE1ZPgP7ho_umIBdU1TxJesquvfFp=s176-c-k-c0x00ffffff-no-rj",
+		"subscribers": "39K+ subs",
+		"linkText": "YouTube",
+		"linkURL": "https://www.youtube.com/@cash-yt"
+
+	},
+	{
+		"username": "Zoey",
+		"profilePicture": "https://yt3.googleusercontent.com/qXeqO7ArU6hpGMRkvug5As0vCJmzPoIrgDVityTe1HrQVDpu_l4VP4SLwooEbWRdE87LY-6T=s176-c-k-c0x00ffffff-no-rj",
+		"subscribers": "46K+ subs",
+		"linkText": "YouTube",
+		"linkURL": "https://www.youtube.com/@zoey-mc"
+
+	},
+	{
+		"username": "ChrisMC",
+		"profilePicture": "https://yt3.googleusercontent.com/Ze_g-SZxsOnWqyEPZgSNgFd5PE0Uo0oxmrezKfZHVn4j5hDD4A-zogYspBmSPefvC6s87ihfDA=s176-c-k-c0x00ffffff-no-rj",
+		"subscribers": "1K+ subs",
+		"linkText": "YouTube",
+		"linkURL": "https://www.youtube.com/@TheChrisMC"
+
 	}
 ]
