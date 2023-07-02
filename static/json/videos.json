@@ -48,13 +48,11 @@
 		]
 	},
 	{
-		"title": "Shorts",
-		"description": "This category features short-form videos or edits that are typically under one minute in length. Shorts may include a variety of styles and genres, and may be designed to be easily shareable on social media platforms.",
+		"title": "Valorant Style",
+		"description": "This category features edits that capture the streamers best momments and the reactions of opposing streamers dieing to him.",
 		"color": "#18181a",
 		"videoLinks": [
-			["https://www.youtube.com/embed/qpdazqRSll4", "SHORT"],
-			["https://www.youtube.com/embed/5AtGHUyVP9A", "SHORT"],
-			["https://www.youtube.com/embed/jKe6LK7XDS8", "SHORT"]
+			["https://www.youtube.com/embed/IX_PPXBtI6M", "VIDEO"]
 		]
 	},
 	{
@@ -62,7 +60,18 @@
 		"description": "This category features edits that Involves the editor finding Youtube videos/Pictures to match what the narrator is talking about. Edits in this style relay facts and information around a certain topic.",
 		"color": "#18181a",
 		"videoLinks": [
-			["https://www.youtube.com/embed/IX_PPXBtI6M", "VIDEO"]
+			["https://www.youtube.com/embed/PyqKa6Ajd7c", "VIDEO"]
+		]
+	},
+	{
+		"title": "Shorts",
+		"description": "This category features short-form videos or edits that are typically under one minute in length. Shorts may include a variety of styles and genres, and may be designed to be easily shareable on social media platforms.",
+		"color": "#18181a",
+		"videoLinks": [
+			["https://www.youtube.com/embed/qpdazqRSll4", "SHORT"],
+			["https://www.youtube.com/embed/5AtGHUyVP9A", "SHORT"],
+			["https://www.youtube.com/embed/jKe6LK7XDS8", "SHORT"]
+
 		]
 	}
 ]
