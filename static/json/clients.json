@@ -13,12 +13,19 @@
 		"linkURL": "https://www.youtube.com/@PeachMonkey_"
 	},
 	{
+		"username": "Kandyrew",
+		"profilePicture": "https://yt3.googleusercontent.com/ytc/AOPolaRdBttQCW3GlRgCOZjgQxEfVwTew_jN1X76P8-yaQ=s176-c-k-c0x00ffffff-no-rj",
+		"subscribers": "776k+ subs",
+		"linkText": "YouTube",
+		"linkURL": "https://www.youtube.com/@kandyrew"
+
+	},
+	{
 		"username": "Magic",
 		"profilePicture": "https://yt3.googleusercontent.com/4uBlNySkaUv4pKJp5tG4xbWpjdMjreeteWv0rSg_29bhyKQDkzg4rKCEOex4yAW8KZN9E7bIDg=s176-c-k-c0x00ffffff-no-rj",
 		"subscribers": "313k+ subs",
 		"linkText": "YouTube",
 		"linkURL": "https://www.youtube.com/@ignBlake"
-
 
 	},
 	{
@@ -28,15 +35,8 @@
 		"linkText": "YouTube",
 		"linkURL": "https://www.youtube.com/@Nosyy"
 
-
-	}, {
-		"username": "Cash",
-		"profilePicture": "https://yt3.googleusercontent.com/Jds8S-25V7VuH2sP5wAMxgS4LFQlQiMbXuI1uY6WF1FLE1ZPgP7ho_umIBdU1TxJesquvfFp=s176-c-k-c0x00ffffff-no-rj",
-		"subscribers": "39K+ subs",
-		"linkText": "YouTube",
-		"linkURL": "https://www.youtube.com/@cash-yt"
-
-	}, {
+},
+ {
 		"username": "Zoey",
 		"profilePicture": "https://yt3.googleusercontent.com/qXeqO7ArU6hpGMRkvug5As0vCJmzPoIrgDVityTe1HrQVDpu_l4VP4SLwooEbWRdE87LY-6T=s176-c-k-c0x00ffffff-no-rj",
 		"subscribers": "46K+ subs",
