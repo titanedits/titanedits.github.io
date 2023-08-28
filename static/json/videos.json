@@ -54,15 +54,6 @@
 		"videoLinks": [
 			["https://www.youtube.com/embed/zzgLQJLtpHU", "VIDEO"],
 			["https://www.youtube.com/embed/ELB-arDLwr0", "VIDEO"]
-		]
-	},
-	{
-		"title": "TommyInnit Style",
-		"description": "This category features edits that are created in the style of popular content creator TommyInnit. Edits in this style may be characterized by energetic and comedic editing, with a focus on fast-paced cuts and funny moments.",
-		"color": "#18181a",
-		"videoLinks": [
-			["https://www.youtube.com/embed/69eBpI2U28g", "VIDEO"],
-			["https://www.youtube.com/embed/O2mR6gHcGd0", "VIDEO"]
 
 		]
 	},
