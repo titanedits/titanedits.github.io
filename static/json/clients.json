@@ -1,39 +1,31 @@
-[{
-		"username": "PeachMonkey",
-		"profilePicture": "https://yt3.googleusercontent.com/faTikFLWCLDtLKC78gjjyaQ6P_R_LT5ipKtbU9sI5fW6I2yT4vglsnSxX1WNOAi9ed6kGaJwbA=s176-c-k-c0x00ffffff-no-rj",
-		"subscribers": "1M+ subs",
-		"linkText": "YouTube",
-		"linkURL": "https://www.youtube.com/@PeachMonkey_"
+ [{
+ 		"username": "PeachMonkey",
+ 		"profilePicture": "https://yt3.googleusercontent.com/faTikFLWCLDtLKC78gjjyaQ6P_R_LT5ipKtbU9sI5fW6I2yT4vglsnSxX1WNOAi9ed6kGaJwbA=s176-c-k-c0x00ffffff-no-rj",
+ 		"subscribers": "1.3M+ subs",
+ 		"linkText": "YouTube",
+ 		"linkURL": "https://www.youtube.com/@PeachMonkey_"
 
-	},
-	{
-		"username": "Magic",
-		"profilePicture": "https://yt3.googleusercontent.com/4uBlNySkaUv4pKJp5tG4xbWpjdMjreeteWv0rSg_29bhyKQDkzg4rKCEOex4yAW8KZN9E7bIDg=s176-c-k-c0x00ffffff-no-rj",
-		"subscribers": "313k+ subs",
-		"linkText": "YouTube",
-		"linkURL": "https://www.youtube.com/@ignBlake"
+ 	},
+ 	{
+ 		"username": "Nosyy",
+ 		"profilePicture": "https://yt3.googleusercontent.com/ytc/AGIKgqP3sO4-uXGfgwUiK2pOuWB6ER1UNeEZpwqDl-tY=s176-c-k-c0x00ffffff-no-rj",
+ 		"subscribers": "230k+ subs",
+ 		"linkText": "YouTube",
+ 		"linkURL": "https://www.youtube.com/@Nosyy"
 
-	},
-	{
-		"username": "Nosyy",
-		"profilePicture": "https://yt3.googleusercontent.com/ytc/AGIKgqP3sO4-uXGfgwUiK2pOuWB6ER1UNeEZpwqDl-tY=s176-c-k-c0x00ffffff-no-rj",
-		"subscribers": "230k+ subs",
-		"linkText": "YouTube",
-		"linkURL": "https://www.youtube.com/@Nosyy"
-
-	},
-	{
-		"username": "AshMC",
-		"profilePicture": "https://yt3.googleusercontent.com/wX-aoAtBoobot2lffX2mXy-M3W6b4OHOCq9e_bqIDtQklcQQZJvp11MMWzyqyqM_Lfk2E2_h5Ik=s176-c-k-c0x00ffffff-no-rj",
-		"subscribers": "143k+ subs",
-		"linkText": "YouTube",
-		"linkURL": "https://www.youtube.com/@ash-mc"
-	},
-	{
-		"username": "Zoey",
-		"profilePicture": "https://yt3.googleusercontent.com/qXeqO7ArU6hpGMRkvug5As0vCJmzPoIrgDVityTe1HrQVDpu_l4VP4SLwooEbWRdE87LY-6T=s176-c-k-c0x00ffffff-no-rj",
-		"subscribers": "46K+ subs",
-		"linkText": "YouTube",
-		"linkURL": "https://www.youtube.com/@zoey-mc"
-	}
-]
+ 	},
+ 	{
+ 		"username": "AshMC",
+ 		"profilePicture": "https://yt3.googleusercontent.com/wX-aoAtBoobot2lffX2mXy-M3W6b4OHOCq9e_bqIDtQklcQQZJvp11MMWzyqyqM_Lfk2E2_h5Ik=s176-c-k-c0x00ffffff-no-rj",
+ 		"subscribers": "143k+ subs",
+ 		"linkText": "YouTube",
+ 		"linkURL": "https://www.youtube.com/@ash-mc"
+ 	},
+ 	{
+ 		"username": "Zoey",
+ 		"profilePicture": "https://yt3.googleusercontent.com/qXeqO7ArU6hpGMRkvug5As0vCJmzPoIrgDVityTe1HrQVDpu_l4VP4SLwooEbWRdE87LY-6T=s176-c-k-c0x00ffffff-no-rj",
+ 		"subscribers": "46K+ subs",
+ 		"linkText": "YouTube",
+ 		"linkURL": "https://www.youtube.com/@zoey-mc"
+ 	}
+ ]
