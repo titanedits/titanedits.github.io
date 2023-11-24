@@ -12,15 +12,6 @@
 		"special": "PAST_CLIENTS"
 	},
 	{
-		"title": "Valorant Style",
-		"description": "This category features edits that capture the streamers best momments and the reactions of opposing streamers dieing to him.",
-		"color": "#18181a",
-		"videoLinks": [
-			["https://www.youtube.com/embed/PyqKa6Ajd7c", "VIDEO"],
-			["https://www.youtube.com/embed/IO4SkLZhDPw", "VIDEO"]
-		]
-	},
-	{
 		"title": "Peachmonkey Style",
 		"description": "This category features edits that use ambience to build up tension and change the viewers emotion.",
 		"color": "#18181a",
@@ -30,20 +21,12 @@
 		]
 	},
 	{
-		"title": "Meme Style",
-		"description": "This category features edits that are inspired by or created in the style of internet memes. Edits in this style may incorporate humorous or satirical elements, and often involve manipulating existing footage in creative ways.",
+		"title": "Valorant Style",
+		"description": "This category features edits that capture the streamers best momments and the reactions of opposing streamers dieing to him.",
 		"color": "#18181a",
 		"videoLinks": [
-			["https://www.youtube.com/embed/tx_unfCi6JU", "VIDEO"]
-		]
-	},
-	{
-		"title": "ChrisMC Style",
-		"description": "This category features edits that are created in the style of popular content creator ChrisMC. Edits in this style may be characterized by creative use of sound effects, music, and text overlays, as well as a focus on showcasing the personality and humor of the content creator.",
-		"color": "#18181a",
-		"videoLinks": [
-			["https://www.youtube.com/embed/Dph3VAp_43s", "VIDEO"],
-			["https://www.youtube.com/embed/OU4Kh7IdkTA", "VIDEO"]
+			["https://www.youtube.com/embed/PyqKa6Ajd7c", "VIDEO"],
+			["https://www.youtube.com/embed/IO4SkLZhDPw", "VIDEO"]
 		]
 	},
 	{
@@ -61,8 +44,6 @@
 		"description": "This category features short-form videos or edits that are typically under one minute in length. Shorts may include a variety of styles and genres, and may be designed to be easily shareable on social media platforms.",
 		"color": "#d61043",
 		"videoLinks": [
-			["https://www.youtube.com/embed/qpdazqRSll4", "SHORT"],
-			["https://www.youtube.com/embed/5AtGHUyVP9A", "SHORT"],
 			["https://www.youtube.com/embed/jKe6LK7XDS8", "SHORT"]
 
 		]
