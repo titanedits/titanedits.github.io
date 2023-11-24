@@ -1,4 +1,12 @@
  [{
+
+ 		"username": "ChrisMC",
+ 		"profilePicture": "https://yt3.googleusercontent.com/6MOv6Sm7_Qe2FeCHGaxdF5vJwKMpAn_XbFqsVu1qUXn8Cb8yRjM95IZevoAZ9379P1mAgTVb=s176-c-k-c0x00ffffff-no-rj",
+ 		"subscribers": "1.7M+ subs",
+ 		"linkText": "YouTube",
+ 		"linkURL": "https://www.youtube.com/@ChrisMCC"
+ },
+  {
  		"username": "PeachMonkey",
  		"profilePicture": "https://yt3.googleusercontent.com/faTikFLWCLDtLKC78gjjyaQ6P_R_LT5ipKtbU9sI5fW6I2yT4vglsnSxX1WNOAi9ed6kGaJwbA=s176-c-k-c0x00ffffff-no-rj",
  		"subscribers": "1.3M+ subs",
@@ -27,5 +35,12 @@
  		"subscribers": "46K+ subs",
  		"linkText": "YouTube",
  		"linkURL": "https://www.youtube.com/@zoey-mc"
+    	},
+ 	{
+ 		"username": "Cash",
+ 		"profilePicture": "https://yt3.googleusercontent.com/Jds8S-25V7VuH2sP5wAMxgS4LFQlQiMbXuI1uY6WF1FLE1ZPgP7ho_umIBdU1TxJesquvfFp=s176-c-k-c0x00ffffff-no-rj",
+ 		"subscribers": "41K+ subs",
+ 		"linkText": "YouTube",
+ 		"linkURL": "https://www.youtube.com/@cash-yt"
  	}
  ]
