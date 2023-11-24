@@ -36,16 +36,6 @@
 		"videoLinks": [
 			["https://www.youtube.com/embed/zzgLQJLtpHU", "VIDEO"],
 			["https://www.youtube.com/embed/ELB-arDLwr0", "VIDEO"]
-
-		]
-	},
-	{
-		"title": "Shorts",
-		"description": "This category features short-form videos or edits that are typically under one minute in length. Shorts may include a variety of styles and genres, and may be designed to be easily shareable on social media platforms.",
-		"color": "#d61043",
-		"videoLinks": [
-			["https://www.youtube.com/embed/jKe6LK7XDS8", "SHORT"]
-
 		]
 	}
 ]
