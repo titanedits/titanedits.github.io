@@ -1,5 +1,4 @@
-[
-	{
+[{
 		"special": "KWEBBELKOP"
 	},
 	{
@@ -14,6 +13,15 @@
 	},
 	{
 		"special": "PAST_CLIENTS"
+	},
+	{
+		"title": "Kwebbelkop Style",
+		"description": "This category features edits that focus on personality and humour.",
+		"color": "#18181a",
+		"videoLinks": [
+			["https://www.youtube.com/embed/lcMJw7TsDgk?si=c7jp67ty4gbFP32t", "VIDEO"],
+			["https://www.youtube.com/embed/nYUlm983xkw", "VIDEO"]
+		]
 	},
 	{
 		"title": "Peachmonkey Style",
