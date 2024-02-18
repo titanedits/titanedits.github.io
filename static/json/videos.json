@@ -24,6 +24,17 @@
 		]
 	},
 	{
+
+	},
+	{
+		"title": "Gyminny Kids Style",
+		"description": "This category features edits that focus on Motion graphics and VFX.",
+		"color": "#F49810",
+		"videoLinks": [
+			["https://www.youtube.com/embed/0t0qgJgKwJQ?si=7OeqKEVbJJEhCIEf", "VIDEO"]
+		]
+	},
+	{
 		"title": "Peachmonkey Style",
 		"description": "This category features edits that use ambience to build up tension and change the viewers emotion.",
 		"color": "#18181a",
