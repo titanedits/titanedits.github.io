@@ -21,6 +21,24 @@
 		]
 	},
 	{
+		"title": "JMWGAMING Style",
+		"description": "This category features edits that use 3D tracking and fun VFX that exaggerate the creators personality.",
+		"color": "#18181a",
+		"videoLinks": [
+			["https://www.youtube.com/embed/COksSIyG5jE", "VIDEO"],
+			["https://www.youtube.com/embed/3WS28tkK__g", "VIDEO"]
+		]
+	},
+	{
+
+		"title": "MandRproductions Style",
+		"description": "This category features Lego edits that use Smooth Lego motion graphics to showcase Lego sets.",
+		"color": "#18181a",
+		"videoLinks": [
+			["https://www.youtube.com/embed/2323BffFoco?si=C4zN-Zrq0RVmxIxX", "VIDEO"]
+		]
+	},
+	{
 
 		"title": "Gyminny Kids Style",
 		"description": "This category features edits that focus on Motion graphics and VFX.",
@@ -41,17 +59,6 @@
 		]
 	},
 	{
-		"title": "JMWGAMING Style",
-		"description": "This category features edits that use 3D tracking and fun VFX that exaggerate the creators personality.",
-		"color": "#18181a",
-		"videoLinks": [
-			["https://www.youtube.com/embed/COksSIyG5jE", "VIDEO"],
-			["https://www.youtube.com/embed/3WS28tkK__g", "VIDEO"]
-
-
-		]
-	},
-	{
 		"title": "Peachmonkey Style",
 		"description": "This category features edits that use ambience to build up tension and change the viewers emotion.",
 		"color": "#18181a",
@@ -67,15 +74,7 @@
 		"videoLinks": [
 			["https://www.youtube.com/embed/PyqKa6Ajd7c", "VIDEO"],
 			["https://www.youtube.com/embed/IO4SkLZhDPw", "VIDEO"]
-		]
-	},
-	{
-		"title": "Simple Cutting",
-		"description": "This category features edits that use straightforward cutting and sequencing techniques to tell a story or convey a message. Edits in this style may prioritize clarity and simplicity over flashy effects or complex transitions.",
-		"color": "#18181a",
-		"videoLinks": [
-			["https://www.youtube.com/embed/zzgLQJLtpHU", "VIDEO"],
-			["https://www.youtube.com/embed/ELB-arDLwr0", "VIDEO"]
+
 		]
 	}
 ]
