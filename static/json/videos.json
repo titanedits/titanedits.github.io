@@ -12,12 +12,22 @@
 		"special": "PAST_CLIENTS"
 	},
 	{
+
+		"title": "Loserfruit Style",
+		"description": "This category features edits that focus on flashe VFX that keep younger audiences entertained.",
+		"color": "#18181a",
+		"videoLinks": [
+			["https://www.youtube.com/embed/uKqUELlTFOw?si=gnDKl4aFwNvEuvnu", "VIDEO"],
+			["https://www.youtube.com/embed/nYUlm983xkw", "VIDEO"]
+		]
+	},
+	{
 		"title": "Kwebbelkop Style",
 		"description": "This category features edits that focus on personality and humour.",
 		"color": "#F49810",
 		"videoLinks": [
 			["https://www.youtube.com/embed/W_q0gyYydiQ?si=LXbOH5iV4W-wigch", "VIDEO"],
-			["https://www.youtube.com/embed/nYUlm983xkw", "VIDEO"]
+			["https://www.youtube.com/embed/GuhH-pKsAfs?si=lxjizSPRzi3bh2PX", "VIDEO"]
 		]
 	},
 	{
